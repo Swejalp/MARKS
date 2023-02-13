@@ -1,1 +1,5 @@
 student details ......
+student 1
+roll no 6901
+age : 23
+dept : iot
